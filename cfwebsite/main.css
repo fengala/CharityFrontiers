@@ -83,7 +83,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-#help{
+#volunteer{
   /* The image used */
   background-image: url("volunteer.jpg");
   /* Full height */
@@ -106,7 +106,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-#connect{
+#news{
   /* The image used */
   background-image: url("connect.jpg");
   /* Full height */
