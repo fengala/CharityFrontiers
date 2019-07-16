@@ -1,0 +1,136 @@
+.navbar-collapse {
+  text-align: center;
+}
+@media only screen and (min-width: 768px) {
+  .nav-link {
+    margin-right: 10px;
+    width: 100px;
+  }
+  #mybtn {
+    margin-top: 7%;
+  }
+  .input-group {
+    margin-top: 7%;
+  }
+  #left {
+    margin-left: 25% !important;
+    width: 50% !important;
+    height: 100vh;
+  }
+  #right {
+    margin-left: 75% !important;
+    width: 50% !important;
+    height: 100vh;
+  }
+  .content {
+    top: 0;
+    left: 0;
+    position: absolute;
+    margin-top: 50vh;
+    text-align: center;
+    margin-left: 50%;
+    width: 90%;
+    transform: translate(-50%, -50%);
+  }
+  h1 {
+    font-size: 4em !important;
+  }
+  p {
+    font-size: 1.3em !important;
+  }
+}
+.nav-item :hover {
+  background-color: black;
+  color: white !important;
+}
+.text {
+  position: absolute;
+  margin-top: 50vh;
+  text-align: center;
+  margin-left: 50%;
+  width: 90vw;
+  padding: 30px;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.747);
+  color: black;
+}
+.slide-heading {
+  font-size: 3em;
+}
+.slide-para {
+  font-size: 1.2em;
+}
+#our_mission {
+  /* The image used */
+  background-image: url("work.jpg");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#thrift {
+  /* The image used */
+  background-image: url("merch.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#Help {
+  /* The image used */
+  background-image: url("volunteer.jpg");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#donate {
+  /* The image used */
+  background-image: url("money.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#connect {
+  /* The image used */
+  background-image: url("connect.jpg");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.carousel-item {
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#first-item {
+  background-image: url(first_slide.jpg);
+}
+#second-item {
+  background-image: url(second_slide.jpg);
+}
+#third-item {
+  background-image: url(third_slide.png);
+}
