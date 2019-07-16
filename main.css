@@ -71,9 +71,9 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-#thrift {
+#need {
   /* The image used */
-  background-image: url("merch.jpg");
+  background-image: url("donations.jpg");
 
   /* Full height */
   height: 100%;
