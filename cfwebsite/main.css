@@ -62,7 +62,7 @@
 }
 #our_mission {
   /* The image used */
-  background-image: url("images/work.jpg");
+  background-image: url("work.jpg");
   /* Full height */
   height: 100%;
 
@@ -73,7 +73,7 @@
 }
 #thrift {
   /* The image used */
-  background-image: url("images/merch.jpg");
+  background-image: url("merch.jpg");
 
   /* Full height */
   height: 100%;
@@ -85,7 +85,7 @@
 }
 #help{
   /* The image used */
-  background-image: url("images/volunteer.jpg");
+  background-image: url("volunteer.jpg");
   /* Full height */
   height: 100%;
 
@@ -96,7 +96,7 @@
 }
 #donate {
   /* The image used */
-  background-image: url("images/money.jpg");
+  background-image: url("money.jpg");
 
   /* Full height */
   height: 100%;
@@ -108,7 +108,7 @@
 }
 #connect{
   /* The image used */
-  background-image: url("images/connect.jpg");
+  background-image: url("connect.jpg");
   /* Full height */
   height: 100%;
 
@@ -126,11 +126,11 @@
   background-size: cover;
 }
 #first-item {
-  background-image: url(images/first_slide.jpg);
+  background-image: url(first_slide.jpg);
 }
 #second-item {
-  background-image: url(images/second_slide.jpg);
+  background-image: url(second_slide.jpg);
 }
 #third-item {
-  background-image: url(images/third_slide.png);
+  background-image: url(third_slide.png);
 }
