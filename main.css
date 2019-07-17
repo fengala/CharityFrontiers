@@ -22,6 +22,11 @@
     width: 50% !important;
     height: 100vh;
   }
+  #center {
+    margin-left: 50% !important;
+    width: 80% !important;
+    height: 100vh;
+  }
   .content {
     top: 0;
     left: 0;
