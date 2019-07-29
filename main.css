@@ -60,7 +60,7 @@
   width: 90vw;
   padding: 30px;
   transform: translate(-50%, -50%);
-  background-color: rgba(255, 255, 255, 0.747);
+  background-color: white /*(255, 255, 255, 0.747)*/;
   color: black;
 }
 .slide-heading {
@@ -167,7 +167,7 @@
 /* Display the columns below each other instead of side by side on small screens */
 @media screen and (max-width: 650px) {
   .column {
-    width: 100%;
+    width: device-width;
     display: block;
   }
 }
